@@ -1,8 +1,8 @@
-Voice Keyboard Switcher v1.1
+Voice Keyboard Switcher v1.2
 
 Что делает программа - переключатель раскладки клавиатуры и распознавание речи в текст (оффлайн).
 
-Релиз v1.1 - <a href="https://github.com/uranik777/VoiceKeyboardSwitcher/releases/tag/v1.1">скачать</a>
+Релиз v1.2 - <a href="https://github.com/uranik777/VoiceKeyboardSwitcher/releases/tag/v1.2">скачать</a>
 
 По умолчанию переключение - правый shift - RU, левый шифт - EN.<br>
 Пока нажат Caps Lock - идёт распознавание голоса в текст, при отпускании текст вставляется в позицию курсора.<br>
