@@ -10,7 +10,7 @@ Voice Keyboard Switcher
 Скомпилирована для работы в Windows 7/10/11 и т.п.<br>
 Занимает много места так как содержит языковые пакеты для распознавания речи без интернета.<br>
 
-Донаты на развитие программы принимаются на USDT (BSC BEP-20) 0x4Dc78C4E83C3C48a450A10d9f1B984e5EEEa28B0 <br>
+<b>Донаты на развитие программы принимаются на USDT (BSC BEP-20) 0x4Dc78C4E83C3C48a450A10d9f1B984e5EEEa28B0</b> <br>
 
 О проблемах в работе и предложениях можете писать в <a href="https://github.com/uranik777/VoiceKeyboardSwitcher/issues">Issues</a>.<br><br>
 
